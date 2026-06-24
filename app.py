@@ -18,7 +18,7 @@ def config():
 
 @app.get('/')
 def home():
-	cfg = load-config()
+	cfg = load_config()
 	html = (
 	    '<h1>{{ name }}</h1>'
 	    '<p>Version: {{ ver }}</p>'
