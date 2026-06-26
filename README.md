@@ -1,4 +1,4 @@
-# Flask DevOps Lab hi
+# Flask DevOps Lab
 
 ## Usage
 
